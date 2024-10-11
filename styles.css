@@ -1,6 +1,7 @@
 body {
     background: cyan;
     color:black;
+    display: flex;
 }
 
 header{
