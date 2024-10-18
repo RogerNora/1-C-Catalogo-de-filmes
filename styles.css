@@ -1,6 +1,7 @@
 body {
     background: cyan;
     color:black;
+    margin: 0;
 }
 
 header{
@@ -14,4 +15,7 @@ header{
 section {
     display: flex;
     background-color: darkolivegreen;
+    padding-bottom: 80px;
+    padding-top: 70px;
+    margin-top: 20px;
 }
