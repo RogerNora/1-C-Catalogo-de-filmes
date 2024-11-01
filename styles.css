@@ -30,6 +30,7 @@ header{
 img {
     width: 150px;
     height: 200px;
+    opacity: 0.6;
 }
 
 .outrasRomendacoes {
@@ -50,11 +51,9 @@ h2 {
     display: flex;
 }
 
-.outrasRomendacoes img{
-    opacity: 0.6;
-}
 
-.outrasRomendacoes img:hover {
+
+img:hover {
     opacity: 1.0;
     border: solid 2px white;
 }
