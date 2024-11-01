@@ -34,7 +34,7 @@ img {
 }
 
 .outrasRomendacoes {
-justify-content: center;
+/*justify-content: center;*/
 padding: 50px;
 
 }
@@ -49,9 +49,8 @@ h2 {
     overflow-x: auto;
     gap: 15px;
     display: flex;
+    
 }
-
-
 
 img:hover {
     opacity: 1.0;
