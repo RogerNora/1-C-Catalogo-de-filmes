@@ -33,16 +33,28 @@ img {
 }
 
 .outrasRomendacoes {
+justify-content: center;
+padding: 50px;
 
 }
 
 .outrasRomendacoes h2 {
     text-align: center;
     font-size: 20px;
+    color: brown;
 }
 
 .filmes {
     overflow-x: auto;
     gap: 15px;
     display: flex;
+}
+
+.outrasRomendacoes img{
+    opacity: 0.6;
+}
+
+.outrasRomendacoes img:hover {
+    opacity: 1.0;
+    border: solid 2px white;
 }
